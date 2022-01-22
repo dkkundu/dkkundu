@@ -116,13 +116,35 @@ Well qualified <a href="https://www.google.com/search?q=full+stack+developer">Fu
   </tr>
 </table>
 
-<!-- <h2>My stats</h2>
-<img alt="ghstats" src="https://ghstats.zube.dev/api/?username=ziibii88&show_icons=true&count_private=true&include_all_commits=true&theme=vue&hide=prs,contribs&line_height=30">
-<img alt="top-lang" src="https://ghstats.zube.dev/api/top-langs/?username=ziibii88&theme=vue&layout=compact&hide=jupyter%20notebook&langs_count=7"> -->
+
+  
+  <table border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td>
+      
+![Druvos's github stats](https://github-readme-stats.vercel.app/api?username=dkkundu&show_icons=true&hide_border=true&theme=vision-friendly-dark)
+
+
+<img style="width: 50%;" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dkkundu&hide_border=true&theme=vision-friendly-dark" alt="ShahadatShuvo">   
+
+</td>
+<td>
+      
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dkkundu&langs_count=10&hide_border=true&theme=vision-friendly-dark)](https://github.com/ShahadatShuvo/github-readme-stats)
+
+
+</td>
+  </tr>
+</table>
 
 
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=dkkundu&theme=highcontrast&show_icons=true&count_private=true)
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=dkkundu&layout=compact)
-<img style="width: 50%;" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dkkundu" alt="sajib1066" />
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=dkkundu) 
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=dkkundu&theme=react-dark)  
+
+
+
+<a href="https://github.com/ShahadatShuvo/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=ShahadatShuvo">
+</a>
+
+[![GitHub followers](https://img.shields.io/github/followers/dkkundu?label=Follow&style=social)](https://github.com/dkkundu) 
