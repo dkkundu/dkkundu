@@ -1,7 +1,7 @@
 <h1>:wave: Hello there, I'm <a href="https://github.com/dkkundu">Dipto Kumar Kundu</a></h1>
 <br>
 
-Well qualified <a href="https://www.google.com/search?q=full+stack+developer">Full Stack Developer</a> and <a href="https://www.google.com/search?q=devops+engineer">DevOps Engineer</a> with more than 2 years of related industry experience. Currently enrolled into <a href="https://www.bubt.edu.bd/Home/course_details/51">BSC in CSE</a> program at <img alt="au-flag" height=16px src="https://www.bubt.edu.bd/assets/componats/new-image/BUBT-Logo.png"/> <a href="https://www.bubt.edu.bd">Bangladesh University of Business and Technology (BUBT).
+Well qualified <a href="https://www.google.com/search?q=full+stack+developer">Full Stack Developer</a> and <a href="https://www.google.com/search?q=devops+engineer">DevOps Engineer</a> with more than 3 years of related industry experience. Currently enrolled into <a href="https://www.bubt.edu.bd/Home/course_details/51">BSC in CSE</a> program at <img alt="au-flag" height=16px src="https://www.bubt.edu.bd/assets/componats/new-image/BUBT-Logo.png"/> <a href="https://www.bubt.edu.bd">Bangladesh University of Business and Technology (BUBT).
 
 <br>
 <ul>
