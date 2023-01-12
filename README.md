@@ -30,20 +30,20 @@ Well qualified <a href="https://www.google.com/search?q=full+stack+developer">Fu
       <br>Vue
     </td>
     <td align="center">
-      <img alt="react" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-      <br>React
-    </td>
-    <td align="center">
-      <img alt="tailwind" height=64px src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg">
-      <br>Tailwind
-    </td>
-    <td align="center">
-      <img alt="bootstrap" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
+     <img alt="bootstrap" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
       <br>Bootstrap
     </td>
     <td align="center">
-      <img alt="jquery" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg">
+       <img alt="jquery" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg">
       <br>jQuery
+    </td>
+    <td align="center">
+      <img alt="aws" height=64px src="https://cdn.worldvectorlogo.com/logos/aws-logo.svg">
+      <br>AWS
+    </td>
+    <td align="center">
+       <img alt="firebase" height=64px src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg">
+      <br>Firebase
     </td>
   </tr>
   <tr>
@@ -64,12 +64,12 @@ Well qualified <a href="https://www.google.com/search?q=full+stack+developer">Fu
       <br>Grafana
     </td>
     <td align="center">
-      <img alt="aws" height=64px src="https://cdn.worldvectorlogo.com/logos/aws-logo.svg">
-      <br>AWS
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" />    
+    <br>ubuntu
     </td>
     <td align="center">
-      <img alt="firebase" height=64px src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg">
-      <br>Firebase
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
+      <br>Magentodb
     </td>
     <td align="center">
       <img alt="postgresql" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
@@ -120,27 +120,16 @@ Well qualified <a href="https://www.google.com/search?q=full+stack+developer">Fu
   
   <table border="0" cellspacing="0" cellpadding="0">
   <tr>
-    <td>
+   <td>
       
-![Druvos's github stats](https://github-readme-stats.vercel.app/api?username=dkkundu&show_icons=true&hide_border=true&theme=vision-friendly-dark)
 
 
-<img style="width: 50%;" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dkkundu&hide_border=true&theme=vision-friendly-dark" alt="ShahadatShuvo">   
+  <img style="width: 100%;" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dkkundu&hide_border=true&theme=vision-friendly-dark" alt="dkkundu00@gmail.com">   
 
-</td>
-<td>
-      
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dkkundu&langs_count=10&hide_border=true&theme=vision-friendly-dark)](https://github.com/ShahadatShuvo/github-readme-stats)
+   </td>
 
-
-</td>
   </tr>
 </table>
-
-
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=dkkundu&theme=react-dark)  
-
 
 
 <a href="https://github.com/ShahadatShuvo/github-profile-views-counter">
@@ -148,3 +137,7 @@ Well qualified <a href="https://www.google.com/search?q=full+stack+developer">Fu
 </a>
 
 [![GitHub followers](https://img.shields.io/github/followers/dkkundu?label=Follow&style=social)](https://github.com/dkkundu) 
+
+
+
+
