@@ -6,7 +6,7 @@ Well-qualified <a href="https://www.google.com/search?q=full+stack+developer">Py
 <br>
 <ul>
 
-  <li><img alt="handshake" height=16px src="https://www.svgrepo.com/show/81080/handshake.svg" /> Connect with me: <a href="mailto:dkkundu00@gmail.com"><img alt="mail" height=24px src="https://www.svgrepo.com/show/223047/gmail.svg"/></a> <a href="https://www.facebook.com/Dipto.Kumar.Kundu.1/"><img alt="facebook" height=24px src="https://www.svgrepo.com/show/111203/facebook.svg"/></a> <a href="https://www.linkedin.com/in/diptokundu/"><img alt="linkedin" height=24px src="https://www.svgrepo.com/show/157006/linkedin.svg" /></a> <a href="https://www.instagram.com/diptokumarkundu/"><img alt="instagram" height=24px src="https://www.svgrepo.com/show/111199/instagram.svg"></a> </li>
+  <li><img alt="handshake" height=16px src="https://www.svgrepo.com/show/81080/handshake.svg" /> Connect with me: <a href="mailto:dkkundu00@gmail.com"><img alt="mail" height=24px src="https://www.svgrepo.com/show/223047/gmail.svg"/></a> <a href="https://www.facebook.com/Dipto.Kumar.Kundu.1/"><img alt="facebook" height=24px src="https://www.svgrepo.com/show/111203/facebook.svg"/></a> <a href="https://www.linkedin.com/in/diptokundu/"><img alt="linkedin" height=24px src="https://www.svgrepo.com/show/157006/linkedin.svg" /></a> </li>
 </ul>
 <br>
 
